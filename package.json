@@ -2,7 +2,6 @@
   "homepage": "http://okhun.github.io/react-ecommerce",
   "name": "e-commerce",
   "version": "0.1.0",
-  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
@@ -18,9 +17,10 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts start index.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": " --mode production"
-    
   },
   "eslintConfig": {
     "extends": [
