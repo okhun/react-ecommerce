@@ -1,0 +1,218 @@
+[
+  {
+    "id": 2017,
+    "category": "smartwatch",
+    "name": "Smart watch gt08",
+    "description": "Dropshipping Smart Watch GT08 Clock Sync Notifier support SIM TF Card Connectivity",
+    "price": 45,
+    "image": "/images/smartWatch/1.png",
+    "amount": 8
+  },
+  {
+    "id": 2018,
+    "category": "smartwatch",
+    "name": "Virayda Wifi",
+    "description": "Virayda Wifi for Kids with Sim Card Mobile Luxury Watches Men Ce Rohs for Boys 4G Smart Watch With Camera ",
+    "price": 32,
+    "image": "/images/smartWatch/2.png",
+    "amount": 12
+  },
+  {
+    "id": 2019,
+    "category": "smartwatch",
+    "name": "Virayda & OEM",
+    "description": "Virayda 2020 Smart Watch Android China for Children Gps Women Sim Phone Y95 Smartwatch 4G ",
+    "price": 36,
+    "image": "/images/smartWatch/3.png",
+    "amount": 5
+  },
+  {
+    "id": 2020,
+    "category": "smartwatch",
+    "name": "DZ09 Bluetooth Smart Phone Watch",
+    "description": "DZ09 Bluetooth Smart Phone Watch для Samsung Smartphone iphone HTC Android с камерой с SIM-картой Gold Group-Buying Flash",
+    "price": 36,
+    "image": "/images/smartWatch/4.png",
+    "amount": 7
+  },
+  {
+    "id": 2021,
+    "category": "smartwatch",
+    "name": "Bluetooth Smart Wrist",
+    "description": "Bluetooth Smart Wrist Watch Phone Mate для Android Black",
+    "price": 28,
+    "image": "/images/smartWatch/5.png",
+    "amount": 3
+  },
+  {
+    "id": 2022,
+    "category": "smartwatch",
+    "name": "Consumer Elec Zeblaze THOR 4 Dual",
+    "description": "Consumer Elec Zeblaze THOR 4 Dual 1+16GB Bluetooth Camera Sport Smart Watch for Android iOS",
+    "price": 14,
+    "image": "/images/smartWatch/6.png",
+    "amount": 9
+  },
+  {
+    "id": 2023,
+    "category": "smartwatch",
+    "name": "THOR 4 Dual",
+    "description": "A1 BLUETOOTH SMART WRIST WATCH PHONE MATE FOR ANDROID IOS IPHONE SMARTPHONE",
+    "price": 18,
+    "image": "/images/smartWatch/7.png",
+    "amount": 6
+  },
+  {
+    "id": 2024,
+    "category": "smartwatch",
+    "name": "Padgene",
+    "description": "Padgene DZ09 Bluetooth Smart Watch with Camera",
+    "price": 28,
+    "image": "/images/smartWatch/8.png",
+    "amount": 5
+  },
+  {
+    "id": 2025,
+    "category": "smartwatch",
+    "name": "White Sport Band",
+    "description": "New Apple Watch Series 6 (GPS, 44mm) - Silver Aluminum Case with White Sport Band",
+    "price": 43,
+    "image": "/images/smartWatch/9.png",
+    "amount": 8
+  },
+  {
+    "id": 2026,
+    "category": "smartwatch",
+    "name": "Alexa Built-in",
+    "description": "Fitbit Versa 2 Health and Fitness Smartwatch with Heart Rate, Music, Alexa Built-In, Sleep and Swim Tracking, Petal/Copper Rose, One Size (S and L Bands Included)",
+    "price": 40,
+    "image": "/images/smartWatch/10.png",
+    "amount": 13
+  },
+  {
+    "id": 2027,
+    "category": "smartwatch",
+    "name": "Rose Gold  (US Version)",
+    "description": "Samsung Galaxy Watch Active (40MM, GPS, Bluetooth) Smart Watch with Fitness Tracking, and Sleep Analysis - Rose Gold  (US Version)",
+    "price": 23,
+    "image": "/images/smartWatch/11.png",
+    "amount": 7
+  },
+  {
+    "id": 2028,
+    "category": "smartwatch",
+    "name": "Garmin Venu",
+    "description": "Garmin Venu, GPS Smartwatch with Bright Touchscreen Display, Features Music, Body Energy Monitoring, Animated Workouts, Pulse Ox Sensor and More, Black",
+    "price": 20,
+    "image": "/images/smartWatch/12.png",
+    "amount": 10
+  },
+  {
+    "id": 2029,
+    "category": "smartwatch",
+    "name": "Fossil Women's 42MM Charter HR",
+    "description": "Fossil Women's 42MM Charter HR Heart Rate Stainless Steel Hybrid HR Smart Watch, Color: Rose Gold (Model: FTW7012)",
+    "price": 25,
+    "image": "/images/smartWatch/13.png",
+    "amount": 19
+  },
+  {
+    "id": 2030,
+    "category": "laptop",
+    "name": "ASUS",
+    "description": "ASUS TUF Gaming Laptop, 15.6” 144Hz Full HD IPS-Type Display, Intel Core i7-9750H Processor, GeForce GTX 1650, 8GB DDR4, 512GB PCIe SSD, Gigabit Wi-Fi 5, Windows 10 Home, FX505GT-AB73",
+    "price": 829,
+    "image": "/images/laptop/1.png",
+    "amount": 6
+  },
+  {
+    "id": 2031,
+    "category": "laptop",
+    "name": "Apple MacBook",
+    "description": "New Apple MacBook Air with Apple M1 Chip (13-inch, 8GB RAM, 256GB SSD Storage) - Gold (Latest Model)",
+    "price": 987,
+    "image": "/images/laptop/2.png",
+    "amount": 22
+  },
+  {
+    "id": 2032,
+    "category": "laptop",
+    "name": "HP",
+    "description": "HP - Pavilion 15.6 Gaming Laptop - AMD Ryzen 5 - 8GB Memory - NVIDIA GeForce GTX 1650 - 256GB SSD - Shadow Black",
+    "price": 669,
+    "image": "/images/laptop/3.png",
+    "amount": 3
+  },
+  {
+    "id": 2033,
+    "category": "laptop",
+    "name": "Asus",
+    "description": "2020 Asus TUF 15.6 FHD Premium Gaming Laptop, 10th Gen Intel Quad-Core i5-10300H, 16GB RAM, 1TB SSD, NVIDIA GeForce GTX 1650Ti 4GB GDDR6, RGB Backlit Keyboard, Windows 10 Home",
+    "price": 849,
+    "image": "/images/laptop/4.png",
+    "amount": 7
+  },
+  {
+    "id": 2034,
+    "category": "laptop",
+    "name": "HP",
+    "description": "2020 HP 15.6 Touchscreen Laptop Computer/ 10th Gen Intel Quard-Core i5 1035G1 up to 3.6GHz/ 12GB DDR4 RAM/ 256GB PCIe SSD/ 802.11ac WiFi/ Bluetooth 4.2/ USB 3.1 Type-C/ HDMI/ Silver/ Windows 10 Home",
+    "price": 599,
+    "image": "/images/laptop/5.png",
+    "amount": 12
+  },
+  {
+    "id": 2035,
+    "category": "laptop",
+    "name": "Lenovo",
+    "description": "Lenovo - IdeaPad S340 15 Touch-Screen Laptop - AMD Ryzen 7 3700U - 12GB Memory - 512GB Solid State Drive - Abyss Blue - 81QG000DUS",
+    "price": 679,
+    "image": "/images/laptop/6.png",
+    "amount": 9
+  },
+  {
+    "id": 2036,
+    "category": "laptop",
+    "name": "hp",
+    "description": "HP Laptop 15-dy1079ms (Core i7-1065G7) 15.6 Full HD 1920x1080 IPS touchscreen 12GB DDR4 Ram, 256GB SSD, Webcam, HDMI, Silver, Windows 10 Home",
+    "price": 649,
+    "image": "/images/laptop/7.png",
+    "amount": 17
+  },
+  {
+    "id": 2037,
+    "category": "laptop",
+    "name": "Acer",
+    "description": "Acer Nitro 5 Gaming Laptop, 9th Gen Intel Core i5-9300H, NVIDIA GeForce GTX 1650, 15.6 Full HD IPS Display, 8GB DDR4, 256GB NVMe SSD, Wi-Fi 6, Backlit Keyboard, Alexa Built-in, AN515-54-5812",
+    "price": 695,
+    "image": "/images/laptop/8.png",
+    "amount": 15
+  },
+  {
+    "id": 2038,
+    "category": "laptop",
+    "name": "Acer",
+    "description": "Acer Swift 3 Thin & Light Laptop, 14 Full HD IPS, AMD Ryzen 7 4700U Octa-Core with Radeon Graphics, 8GB LPDDR4, 512GB NVMe SSD, Wi-Fi 6, Backlit KB, Fingerprint Reader, Alexa Built-in, SF314-42-R9YN",
+    "price": 779,
+    "image": "/images/laptop/9.png",
+    "amount": 10
+  },
+  {
+    "id": 2039,
+    "category": "laptop",
+    "name": "Acer",
+    "description": "Acer Nitro 5 Gaming Laptop, 9th Gen Intel Core i7-9750H, NVIDIA GeForce RTX 2060, 17.3 Full HD IPS 144Hz 3ms Display, 16GB DDR4, 256GB NVMe SSD, Gigabit WiFi 5, Backlit Keyboard, AN517-51-76V6",
+    "price": 1189,
+    "image": "/images/laptop/10.png",
+    "amount": 2
+  },
+  {
+    "id": 2040,
+    "category": "laptop",
+    "name": "HP",
+    "description": "HP 2020 Newest Pavilion X360 2-in-1 Convertible 14 HD Touch-Screen Laptop, 10th Gen Intel Core i3-1005G1, 8GB Ram, 128GB Ssd, Wifi, Webcam, Win 10 S",
+    "price": 475,
+    "image": "/images/laptop/11.png",
+    "amount": 4
+  }
+]
